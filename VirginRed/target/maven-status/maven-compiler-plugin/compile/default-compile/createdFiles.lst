@@ -1,0 +1,15 @@
+com\google\main\MainExecuter$3.class
+com\google\EnhanceWithDataStore.class
+com\google\main\MyOptions.class
+com\google\datastore\readOperations\DataStoreReadDataImpl.class
+com\google\datastore\readInput\ReadCSV.class
+com\google\datastore\readInput\ReadCSVImpl.class
+com\google\main\MainExecuter$2.class
+com\google\datastore\snippets\write\WriteData.class
+com\google\datastore\snippets\write\WriteDataImpl.class
+com\google\main\MainExecuter$Options.class
+com\google\datastore\model\User.class
+com\google\datastore\readOperations\DataStoreReadData.class
+com\google\datastore\snippets\TaskList.class
+com\google\main\MainExecuter$1.class
+com\google\main\MainExecuter.class
